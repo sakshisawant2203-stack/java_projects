@@ -1,2 +1,2 @@
 # java_projects
-thi is a java project
+this is a java project
